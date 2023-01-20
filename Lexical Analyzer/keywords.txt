@@ -1,0 +1,7 @@
+ VALUE : True, False, None
+ OPERATOR :  and, or, not, in, is
+ CONTROL : if, elif, else
+ ITERATION : for, while, break, continue, else
+ STRUCTURE : def, class, with, as, pass, lambda
+ RETURNING : return, yield
+ IMPORT :  import, from, as
