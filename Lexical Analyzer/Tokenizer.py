@@ -159,8 +159,6 @@ class Tokenizer:
                 continue
             tokens = self.breakup_line(line)
             final = self.get_string(tokens)
-            print(tokens)
-            print(final)
             for c, item in enumerate(final):
         # print cnt
                 cnt=cnt+1
